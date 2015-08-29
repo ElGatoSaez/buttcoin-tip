@@ -10,7 +10,6 @@ Polsaker - https://github.com/Polsaker
  -
 */
 // Parameters
-https://hira.io/buttwait.php?tid=TRANSACTION_ID
 // Place here your buttcoin account (Putting mine as example)
 $acc = "elgatosaez";
 // Landing website (I'm putting mine as example)
